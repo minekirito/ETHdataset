@@ -1,0 +1,9 @@
+
+
+
+
+
+mape_mean = inf
+mse_mean = 0.00962690144137311
+mae_mean = 5.743824200913256
+rmse_mean = nan
